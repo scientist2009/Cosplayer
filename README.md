@@ -1,0 +1,2 @@
+# Cosplayer
+Cosplayer音乐播放器，目标是为了提供一个Linux下的简单高质量无乱码的中文音乐本地播放器。
